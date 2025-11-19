@@ -52,5 +52,17 @@ It provides secure access for **admins, teachers, and students** with advanced f
 | Zxing QR Code Generator | QR code generation |
 | Google Maps API | Location & institute navigation |
 | Android Studio | Development environment |
-
 ---
+
+## 👨‍💻 Team Members 
+
+- **Ravindu Hettiarachchi** -
+- **Janindu Vinsura** - 
+- **Jithmitha Rukshan** 
+- **Tharushi Nikethana** - 
+
+## 🙏 Thank You
+
+> Built with ❤️ by COHNDSE242F 
+> NIBM - School of Computing, 2024.2 Intake  
+
