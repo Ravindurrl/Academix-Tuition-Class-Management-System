@@ -56,10 +56,11 @@ It provides secure access for **admins, teachers, and students** with advanced f
 
 ## 👨‍💻 Team Members 
 
-- **Ravindu Hettiarachchi** -
-- **Janindu Vinsura** - 
+- **Ravindu Hettiarachchi**
+-  **Tharushi Nikethana** 
+- **Janindu Vinsura** -
 - **Jithmitha Rukshan** 
-- **Tharushi Nikethana** - 
+ 
 
 ## 🙏 Thank You
 
